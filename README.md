@@ -3,9 +3,9 @@ Computer Organization - Spring 2024
 ## Iran Univeristy of Science and Technology
 ## Assignment 1: Assembly code execution on phoeniX RISC-V core
 
-- Name:amirreza rahbar
-- Team Members: amirhosein wireman yazdi
-- Student ID: 400412238
+- Name:amirhosein wierman yazdi
+- Team Members:amirreza rahbar
+- Student ID: 400413467
 - Date:26 may
 
 ## Report
